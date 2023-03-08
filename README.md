@@ -11,6 +11,17 @@ Also, feel free to reach out to me for help if you're a beginner dev. </samp>
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFalimendikov&theme=tokyonight&show_icons=true&hide=contribs,prs&card_width=320&include_all_commits)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IFalimendikov&layout=compact&theme=tokyonight&card_width=500)](https://github.com/IFalimendikov/github-readme-stats)
 
+<h2> Languages: </h2>
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=#363636"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=JavaScript&logoColor=363636"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=363636"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=363636"/>
+
+
+<br>
+
+
 <h2> Technologies: </h2>
 
 <p>
