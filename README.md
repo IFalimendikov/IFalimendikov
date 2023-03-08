@@ -22,7 +22,7 @@ Also, feel free to reach out to me for help if you're a beginner dev. </samp>
 
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Hardhat-FF4088?style=for-the-badge&logo=Hugo&logoColor=ffffff"/> <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Next.js-00C7B7?style=for-the-badge&logo=Next.js&logoColor=ffffff"/>
 
-<h2> Contacts: </h2>
+<h2> Contact me: </h2>
 
 <p>
 <a href="https://www.linkedin.com/in/ivan-falimendikov-a3b931198/">
@@ -32,6 +32,6 @@ Also, feel free to reach out to me for help if you're a beginner dev. </samp>
 </a> <a href="https://twitter.com/IFalimendikov">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff"/>
 </a>
-  </p>
+ </p>
 
 
