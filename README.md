@@ -2,10 +2,9 @@
 <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> Hello, I'm Ivan- Blockchain/Web3 Developer! <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"></h1>
 
 
-<h4> Love working in Blockchain/Web3 industry,  getting new insights into Metaverse every day. Always excited for new, interesting projects!
-Also, feel free to reach out to me for help if you're a beginner dev. </h4>
+<h3> Love working in Blockchain/Web3 industry,  getting new insights into Metaverse every day. Always excited for new, interesting projects!
+Also, feel free to reach out to me for help if you're a beginner dev. </h3>
 
-<br>
 <h2> Stats: </h2>
 
 
