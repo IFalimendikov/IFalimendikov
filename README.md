@@ -3,7 +3,7 @@
 <br>
 
 <samp> Love working in Blockchain/Web3 industry,  getting new insights into Metaverse every day. Always excited for new, interesting projects!
-Also, feel free to reach out to me for help if you're a beginner dev. </samp>
+Feel free to reach out to me if you're a beginner dev, I'm always glad to help. </samp>
 
 <h2> Stats: </h2>
 
