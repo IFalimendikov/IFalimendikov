@@ -8,7 +8,6 @@ Feel free to reach out to me if you're a beginner developer, I'm always glad to 
 <h2> Stats: </h2>
 
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFalimendikov&theme=tokyonight&show_icons=true&hide=contribs,prs&card_width=320&include_all_commits)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IFalimendikov&layout=compact&theme=tokyonight&card_width=500)](https://github.com/IFalimendikov/github-readme-stats)
 
 <h2> Languages: </h2>
