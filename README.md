@@ -5,7 +5,7 @@
 <samp> Blockchain Software Engineer with a passion for crafting
 decentralized solutions, specializing in smart contract
 development and blockchain architecture.  5 years in the Blockchain
-industry, saying GM daily. If you're a beginner developer, don't hesitate to connect—I'm always ready to help! </samp>
+industry, saying GM daily. If you're a beginner developer, don't hesitate to connect, I'm always ready to help! </samp>
 
 <h2> Stats: </h2>
 
