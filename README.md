@@ -14,7 +14,7 @@ industry, saying GM daily. If you're a beginner developer, don't hesitate to con
 
 <h2> Languages: </h2>
 
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Go-00C7B7?style=for-the-badge&logo=Go&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Go-61DAFB?style=for-the-badge&logo=Go&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff"/>
 
 
 
