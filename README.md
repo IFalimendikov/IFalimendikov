@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> Hello, I'm Ivan- Blockchain/Web3 Developer! <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"></h1>
 <br>
 
-<samp> Blockchain Software Engineer with a passion for crafting
+<samp> Blockchain Software Engineer with a passion for creating
 decentralized solutions, specializing in smart contract
 development and Web3 blockchain architecture.  5 years in the Blockchain
 industry, saying GM daily. If you're a beginner developer, don't hesitate to connect, I'm always ready to help! </samp>
