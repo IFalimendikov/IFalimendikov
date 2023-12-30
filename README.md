@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> Hello, I'm Ivan- Blockchain/Web3 Developer <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"></h1>
+<img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> Blockchain/Web3 Developer <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"></h1>
 <br>
 
 <samp> Blockchain Software Engineer with a passion for creating
