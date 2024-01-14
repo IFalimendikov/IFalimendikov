@@ -29,7 +29,7 @@ I'm Ivan, Blockchain Engineer specializing in creating decentralized solutions b
 <p>
 <a href="https://www.linkedin.com/in/ivan-falimendikov-a3b931198/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=ffffff"/>
-</a> <a href="https://t.me/Mark_augustus">
+</a> <a href="https://t.me/IFalimendikov">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=ffffff"/>
 </a> <a href="https://twitter.com/IFalimendikov">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff"/>
