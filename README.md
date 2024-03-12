@@ -1,5 +1,5 @@
 ### Gm!👋
-I'm Ivan, Blockchain Engineer specializing in creating decentralized solutions both on and off-chain. Crypto Industry vet, saying gm daily. 
+I'm Ivan, Blockchain Engineer specializing in creating decentralized solutions both on and off-chain. Crypto Industry vet, open for interesting projects. 
 
 🔗 **Smart Contracts:** Architecture Development and Auditing. <BR>
 🤖 **DApps:** Create innovative, decentralized applications based on client's needs. <BR>
