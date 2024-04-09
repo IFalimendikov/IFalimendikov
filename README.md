@@ -2,10 +2,10 @@
 I'm Ivan, Blockchain Engineer specializing in creating decentralized solutions both on and off-chain. Crypto Industry vet, open for interesting projects. 
 
 🔗 **Smart Contracts:** Architecture Development and Auditing. <BR>
-🤖 **DApps:** Create innovative, decentralized applications based on client's needs. <BR>
-📚 **Backend:** Develop blockchain based backend frameworks. <BR>
-🖥️ **Web3 Integration:** Expand app functionality by integrating Web3 with off-chain services. <BR>
-✨ **Deployment and Testing:** Deploy and test apps on EVM and non-EVM blockchais. <BR>
+🤖 **DApps:** Createion of innovative, decentralized applications based on client's needs. <BR>
+📚 **Backend:** Development of blockchain based backend frameworks. <BR>
+🖥️ **Web3 Integration:** Expanding app functionality by integrating Web3 into off-chain services. <BR>
+✨ **Deployment and Testing:** Deploying and testing apps on EVM and non-EVM blockchais. <BR>
 
 
 
