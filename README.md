@@ -1,5 +1,5 @@
 ### Gm!
-I'm Ivan, Blockchain Engineer specializing in creating decentralized solutions both on and off-chain. Crypto Industry vet, open for interesting projects. 
+I'm Ivan, Blockchain Software Engineer specializing in creating decentralized solutions both on and off-chain. Crypto Industry vet, open for interesting projects. 
 
 🔗 **Smart Contracts:** Architecture Development and Auditing. <BR>
 🤖 **DApps:** Creation of innovative, decentralized applications based on client's needs. <BR>
