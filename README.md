@@ -1,10 +1,10 @@
 ### Gm!
 I'm Ivan, Blockchain Software Engineer specializing in creating decentralized solutions both on and off-chain. Crypto Industry vet, open for interesting projects. 
 
-🔗 **Smart Contracts:** Architecture Development and Auditing. <BR>
-🌌 **Cosmos SDK:** Building application-specific blockchains with modular architecture. <BR>
-📚 **Backend:** Development of blockchain based backend frameworks. <BR>
-🖥️ **Web3 Integration:** Expanding app functionality by integrating Web3 into off-chain services. <BR>
+🔗 **Smart Contracts:** Develop and Audit EVM-based contracts. <BR>
+🌌 **Cosmos SDK:** Build application-specific blockchains with modular architecture. <BR>
+📚 **Backend:** Microservices, APIs, Messaging . <BR>
+🖥️ **Web3 Integration:** Expand app functionality by integrating Web3 into off-chain services. <BR>
 ✨ **Deployment and Testing:** Deploying and testing apps on EVM and non-EVM blockchais. <BR>
 
 
