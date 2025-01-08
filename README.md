@@ -3,7 +3,7 @@ I'm Ivan, Blockchain Software Engineer specializing in creating decentralized so
 
 🔗 **Smart Contracts:** Develop and Audit EVM-based contracts. <BR>
 🌌 **Cosmos SDK:** Build application-specific blockchains with modular architecture. <BR>
-📚 **Backend:** Microservices, APIs, Messaging . <BR>
+📚 **Backend:** Microservices, APIs, Messaging. <BR>
 🖥️ **Web3 Integration:** Expand app functionality by integrating Web3 into off-chain services. <BR>
 ✨ **Deployment and Testing:** Deploying and testing apps on EVM and non-EVM blockchais. <BR>
 
