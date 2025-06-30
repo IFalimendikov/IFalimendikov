@@ -1,11 +1,11 @@
 ### Gm!
 I'm Ivan, Backend Blockchain Software Engineer, creating reliable backend systems that power scalable blockchain solutions.
 
-🏗️ **Backend Infrastructure:** Go microservices (gRPC/REST), PostgreSQL/Redis, Docker/Kubernetes/Helm, GCP (GKE, Cloud SQL), JetStream NATS messaging, Elasticsearch,  high-load systems design <BR>
-🔗 **Smart Contracts:** Develop, deploy and optimize Solidity contracts with Hardhat/Truffle frameworks <BR>
-🌌 **Blockchain Systems:** Built production infrastructure handling 4500+ ETH turnover, migrated CosmosSDK to EVM <BR>
-📡 **APIs & Integration:** GraphQL/REST APIs, JetStream messaging, Elasticsearch, seamless Web3-backend integration <BR>
-✨ **Production Delivery:** Shipped backend systems for trading platforms, NFT marketplaces, and enterprise SDK packages <BR>
+🏗️ **Backend Infrastructure:** Go microservices (gRPC/REST), PostgreSQL/Redis, Docker/Kubernetes/Helm, GCP (GKE, Cloud SQL), JetStream NATS messaging, Elasticsearch,  high-load system design. <BR>
+🔗 **Smart Contracts:** Develop, deploy and optimize Solidity contracts with Hardhat/Truffle frameworks. <BR>
+🌌 **Blockchain Systems:** Built production infrastructure handling 4500+ ETH turnover, migrated CosmosSDK to EVM. <BR>
+📡 **APIs & Integration:** GraphQL/REST APIs, JetStream messaging, Elasticsearch, seamless Web3-backend integration. <BR>
+✨ **Production Delivery:** Shipped backend systems for trading platforms, NFT marketplaces, and enterprise SDK packages. <BR>
 
 
 
