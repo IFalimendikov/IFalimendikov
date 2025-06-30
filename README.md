@@ -1,5 +1,5 @@
 ### Gm!
-I'm Ivan, Golang Blockchain Software Engineer, creating reliable backend systems that power scalable blockchain solutions.
+I'm Ivan, Go Blockchain Software Engineer, creating reliable backend systems that power scalable blockchain solutions.
 
 🏗️ **Backend Infrastructure:** Go microservices (gRPC/REST), PostgreSQL/Redis, Docker/Kubernetes/Helm, GCP (GKE, Cloud SQL), JetStream NATS messaging, Elasticsearch,  high-load system design. <BR>
 🔗 **Smart Contracts:** Develop, deploy and optimize Solidity contracts with Hardhat/Truffle frameworks. <BR>
