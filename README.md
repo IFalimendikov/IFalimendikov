@@ -1,11 +1,11 @@
 ### Gm!
-I'm Ivan, Blockchain Software Engineer specializing in creating decentralized solutions both on and off-chain. Crypto Industry vet, open for interesting projects. 
+I'm Ivan, Backend Blockchain Software Engineer, creating reliable backend systems that power scalable blockchain solutions.
 
-🔗 **Smart Contracts:** Develop and Audit EVM-based contracts. <BR>
-🌌 **Cosmos SDK:** Build application-specific blockchains with modular architecture. <BR>
-📚 **Backend:** Microservices, APIs, Messaging. <BR>
-🖥️ **Web3 Integration:** Expand app functionality by integrating Web3 into off-chain services. <BR>
-✨ **Deployment and Testing:** Deploying and testing apps on EVM and non-EVM blockchais. <BR>
+🏗️ **Backend Infrastructure:** Go microservices (gRPC/REST), PostgreSQL/Redis, Docker/Kubernetes/Helm, GCP (GKE, Cloud SQL), JetStream NATS messaging, Elasticsearch, distributed tracing, high-availability architecture <BR>
+🔗 **Smart Contracts:** Develop, deploy and optimize Solidity contracts with Hardhat/Truffle frameworks <BR>
+🌌 **Blockchain Systems:** Built production infrastructure handling 4500+ ETH turnover, migrated CosmosSDK to EVM <BR>
+📡 **APIs & Integration:** GraphQL/REST APIs, JetStream messaging, Elasticsearch, seamless Web3-backend integration <BR>
+✨ **Production Delivery:** Shipped backend systems for trading platforms, NFT marketplaces, and enterprise SDK packages <BR>
 
 
 
