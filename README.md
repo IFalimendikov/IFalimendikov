@@ -2,7 +2,8 @@
 I'm Ivan, as a Go Dev I create reliable backend solutions for Web2 and Web3 projects.
 
 🏗️ Backend Stack: Go, PostgreSQL/MySQL, Redis/MongoDB, JetStream NATS/Kafka, Elasticsearch/Grafana, Docker/Kubernetes.
-🔗 Blockchain Stack: go-ethereu(Cosmos)/Solidity, Hardhat/Web3.js/Ethers.js 
+<br>
+🔗 Blockchain Stack: go-ethereu(Cosmos)/Solidity, Hardhat/Web3.js/Ethers.js.
 
 
 
