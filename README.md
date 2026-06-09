@@ -1,5 +1,3 @@
-Go dev building reliable backends for Web2 and Web3.
-
 
 
 <!--
